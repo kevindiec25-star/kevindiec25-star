@@ -383,7 +383,7 @@ Especially when AI is involved, I believe production engineering and evaluation 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kevindiec25-star&hide_border=true" />
 </p>
 
 ---
